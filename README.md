@@ -1,2 +1,3 @@
-# DATCOM-SRIR
-Repositorio para la asignatura Sistemas de Recuperación de Información y de Recomendación del Máster en Ciencia de Datos e Ingeniería de Computadores
+# Sistemas de Recuperación de Información y de Recomendación
+
+## Máster Universitario en Ciencia de Datos e Ingeniería de Computadores 21-22
